@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.jboss.ws:jbossws-api:1.1.2.Final" type="repository">
+    <properties maven-id="org.jboss.ws:jbossws-api:1.1.2.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/ws/jbossws-api/1.1.2.Final/jbossws-api-1.1.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
